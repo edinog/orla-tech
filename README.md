@@ -119,6 +119,7 @@ src
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Edivaldo Nogueira - [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/edivaldo-nogueira-1a240263/))
+Desenvolvido por Edivaldo Nogueira
+https://www.linkedin.com/in/edivaldo-nogueira-1a240263/
 
 ---
